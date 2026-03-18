@@ -5,7 +5,11 @@ Comecei a me interessar por computação antes mesmo de saber que isso podia vir
 O que mais me motiva é ver um script ou uma automação resolvendo um problema real. Parece simples, mas quando você economiza horas de trabalho manual de alguém com algumas linhas de código, bate uma satisfação difícil de explicar.
 
 ---
+## O que eu sei
 
+Python e Power BI são as ferramentas que mais uso — automações, manipulação de dados e dashboards. Também trabalhei com SQL e banco de dados. Front-end também: HTML, CSS e JavaScript sem framework. Java aprendi na faculdade
+
+---
 ## O que estou aprendendo
 
 Estou construindo minha base em desenvolvimento web, com foco em entender o que acontece dos dois lados — front e back.
