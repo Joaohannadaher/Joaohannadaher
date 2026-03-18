@@ -7,7 +7,7 @@ O que mais me motiva é ver um script ou uma automação resolvendo um problema 
 ---
 ## O que eu sei
 
-Python e Power BI são as ferramentas que mais uso — automações, manipulação de dados e dashboards. Também trabalhei com SQL e banco de dados. Front-end também: HTML, CSS e JavaScript sem framework. Java aprendi na faculdade
+Python e Power BI são as ferramentas que mais uso — automações, manipulação de dados e dashboards. Também trabalhei com SQL e banco de dados.
 
 ---
 ## O que estou aprendendo
