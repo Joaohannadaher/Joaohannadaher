@@ -33,7 +33,16 @@ Ainda estou no começo, mas cada projeto aqui é algo que eu realmente construí
 
 ---
 
-## Projetos
+## 🚀 Projetos em destaque
+
+🔹 Automação SharePoint  
+→ Script que sincroniza Excel com SharePoint automaticamente  
+
+🔹 Geração de relatórios em PDF  
+→ Automatiza dashboards a partir de planilhas  
+
+🔹 Site imobiliário  
+→ Projeto real com HTML e CSS
 
 ### João Calil Daer — Site Imobiliário
 Site institucional desenvolvido para um cliente do mercado imobiliário de Goiânia. Design escuro com tipografia elegante e paleta dourada, feito inteiro em HTML e CSS puro.
