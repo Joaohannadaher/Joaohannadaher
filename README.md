@@ -1,8 +1,4 @@
-# 🚀 Desenvolvedor focado em automação e dados  
-
-## Transformando tarefas manuais em soluções automáticas com Python e Power BI
-
-### Oi, eu sou o João 👋
+# Oi, eu sou o João 👋
 
 Comecei a me interessar por computação antes mesmo de saber que isso 
 podia virar carreira. Hoje estudo Ciência da Computação na PUC-GO 
