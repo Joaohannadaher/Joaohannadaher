@@ -1,5 +1,7 @@
 # 🚀 Desenvolvedor focado em automação e dados  
+
 ## Transformando tarefas manuais em soluções automáticas com Python e Power BI
+
 ### Oi, eu sou o João 👋
 
 Comecei a me interessar por computação antes mesmo de saber que isso podia virar carreira. Hoje estudo Ciência da Computação na PUC-GO (turma de 2024) e trabalho com Power BI e automação de processos — basicamente, faço código trabalhar no lugar de gente.
@@ -14,8 +16,7 @@ Python e Power BI são as ferramentas que mais uso — automações, manipulaç�
 ---
 ## O que estou aprendendo
 
-Estou construindo minha base em desenvolvimento web, com foco em entender o que acontece dos dois lados — front e back.
-
+Estou construindo minha base em desenvolvimento web, com foco em entender o que acontece dos dois lados — front, APIs, Integração de sistemas, Automação web (Selenium, etc).
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -31,8 +32,7 @@ Estou construindo minha base em desenvolvimento web, com foco em entender o que 
 - Automações que resolvem problemas do dia a dia
 - Dashboards em Power BI
 
-Ainda estou no começo, mas cada projeto aqui é algo que eu realmente construí pra funcionar — não só pra parecer bem no portfólio.
-
+Estou em constante evolução, focado em construir soluções reais que geram impacto.
 ---
 
 ## 🚀 Projetos em destaque
