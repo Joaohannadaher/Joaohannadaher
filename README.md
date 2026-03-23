@@ -66,6 +66,7 @@ Freela, projetos colaborativos e qualquer oportunidade de aprender com gente mai
 ## Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joaohannadaher@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/joaohannadaher)
 
 ---
 
