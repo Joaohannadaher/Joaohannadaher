@@ -32,7 +32,8 @@ Estou construindo minha base em desenvolvimento web, com foco em entender o que 
 - Projetos pessoais pra consolidar o que aprendo na faculdade
 - Automações que resolvem problemas do dia a dia
 - Dashboards em Power BI
-### Estou em constante evolução, focado em construir soluções reais que geram impacto.
+
+  Estou em constante evolução, focado em construir soluções reais que geram impacto.
 ---
 
 ## 🚀 Projetos em destaque
